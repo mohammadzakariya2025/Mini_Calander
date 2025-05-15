@@ -15,5 +15,5 @@ dayNameEl.innerText = date.toLocaleString("en", {
 
 dayNumEl.innerText = date.getDate()
 
-yearEl.innerText = date.getFullYear
+yearEl.innerText = date.getFullYear()
 
